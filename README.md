@@ -16,3 +16,7 @@ The grading rubric is:
 - Correctly implement tests for remove_data (1/2 pt)
 
 Tests should be in a separate file from the functions get_data and remove_data.
+
+(-1) Had to change url to get test to run
+
+7/8
